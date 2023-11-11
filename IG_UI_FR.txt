@@ -7,15 +7,15 @@ IG_UI_FR = {
 	IGUI_VehicleName86fordE150long = "'86 Ford Econoline E-150 variante longue"
 
 	IGUI_VehiclePartE150SpareTire = "Pneu de rechange",
-	IGUI_VehiclePartE150Bumper = "Pare-choc avant",
+	IGUI_VehiclePartE150Bumper = "Pare-chocs avant",
 	IGUI_VehiclePartE150RearBumper = "Pare-chocs arrière",
 	IGUI_VehiclePartE150Divider = "Diviseur de cabine",
 
 	IGUI_VehiclePartE150WindshieldArmor = "Renfort de Pare-brise",
 	IGUI_VehiclePartE150WindshieldRearArmor = "Renfort de Pare-brise arrière",
 	IGUI_VehiclePartE150WindshieldRearLongArmor = "Renfort de Pare-brise arrière",
-	IGUI_VehiclePartE150LeftDoorArmor = "Renfort de Porte gauche",
-	IGUI_VehiclePartE150RightDoorArmor = "Renfort de Porte droite",
+	IGUI_VehiclePartE150LeftDoorArmor = "Renfort de Portière gauche",
+	IGUI_VehiclePartE150RightDoorArmor = "Renfort de Portière droite",
 	IGUI_VehiclePartE150Trunk = "Stockage du Coffre",
 
 	IGUI_VehiclePartCatfurvan = "Fourrure de Mutt Cutts",
@@ -25,7 +25,7 @@ IG_UI_FR = {
 	IGUI_VehiclePartE150FurLeftDoor = "Fourrure de Porte gauche",
 	IGUI_VehiclePartE150FurRightDoor = "Fourrure de Porte droite",
 	IGUI_VehiclePartE150FurTrunkDoor = "Fourrure de Portes de coffre",
-	IGUI_VehiclePartE150FurRearLeg = "Jambe arrière",
+	IGUI_VehiclePartE150FurRearLeg = "Aile arrière",
 
 	IGUI_VehiclePartCatmysterymachine = "Machine Mystère",
 
