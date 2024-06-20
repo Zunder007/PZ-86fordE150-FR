@@ -9,4 +9,17 @@ Recipes_FR = {
 	Recipe_Make_E150_Rear_Bumper = "Fabriquer Pare-chocs arrière E150",
 	Recipe_Make_E150_Front_Bullbar = "Fabriquer Pare-buffle avant",
 	Recipe_Make_E150_Front_Bumper_with_Bullbar = "Fabriquer Pare-chocs avant avec Pare-buffle",
+
+	Recipe_Dismantle_86_Ford_E150_Armor = "Démonter Blindage",
+	Recipe_Dismantle_86_Ford_E150_Door = "Démonter Portière",
+	Recipe_Dismantle_86_Ford_E150_Lid = "Démonter Coffre",
+	Recipe_Dismantle_86_Ford_E150_Mystery_Machine_Roofrack = "Démonter Porte-bagages",
+	Recipe_Dismantle_86_Ford_E150_Seat = "Démonter Siège",
+	Recipe_Dismantle_86_Ford_E150_Tire = "Démonter Pneu",
+	Recipe_Make_86_Ford_E150_Door_Armor = "Fabriquer Blindage",
+	Recipe_Make_86_Ford_E150_Front_Bullbar = "Fabriquer Pare-buffle",
+	Recipe_Make_86_Ford_E150_Front_Bumper_with_Bullbar = "Fabriquer Pare-chocs",
+	Recipe_Make_86_Ford_E150_Rear_Windshield_Armor = "Fabriquer Blindage",
+	Recipe_Make_86_Ford_E150_Tire = "Fabriquer Pneu",
+	Recipe_Make_86_Ford_E150_Windshield_Armor = "Fabriquer Blindage",
 }
