@@ -5,6 +5,7 @@ IG_UI_FR = {
 	IGUI_VehicleName86fordE150mm = "La Machine Mystère"
 	IGUI_VehicleName86fordE150slide = "'86 Ford Econoline E-150 avec porte coulissante"
 	IGUI_VehicleName86fordE150long = "'86 Ford Econoline E-150 variante longue"
+	IGUI_VehicleName86fordE150slideSpiffo = "'86 Ford Econoline E-150 Spiffo",
 
 	IGUI_VehiclePartE150SpareTire = "Pneu de rechange",
 	IGUI_VehiclePartE150Bumper = "Pare-chocs avant",
